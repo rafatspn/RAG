@@ -1,0 +1,5 @@
+langchain
+langchain-community
+python-dotenv
+weaviate-client==4.5.4
+transformers
